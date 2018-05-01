@@ -2,4 +2,4 @@
 Just another repository
 Hi Humans!
 
-Michelle here, I like movie and coding. 
+Michelle here, I like Python. 
